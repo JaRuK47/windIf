@@ -15,3 +15,4 @@ C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net
 C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.pdb
 C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.genruntimeconfig.cache
 C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\ref\windIf.dll
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\bin\Debug\net8.0-windows\windIf.dll.config

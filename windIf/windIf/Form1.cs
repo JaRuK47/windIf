@@ -5,11 +5,24 @@ namespace windIf
         public Form1()
         {
             InitializeComponent();
+            cop.Text = Properties.Settings.Default.copSave.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(this.cop.Text);
+            int nomber;
+            try
+            {
+                nomber = int.Parse(this.cop.Text);
+            }
+            catch (FormatException)
+            {
+                return;
+            }
+            Properties.Settings.Default.copSave = nomber;
+            Properties.Settings.Default.Save();
+            string text = Logic.Convert(nomber);
+            MessageBox.Show(text);
         }
     }
 
