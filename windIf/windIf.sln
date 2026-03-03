@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windIf", "windIf\windIf.csproj", "{8A700D54-B3EB-4CF7-B5A7-FBA17095D6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A700D54-B3EB-4CF7-B5A7-FBA17095D6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A700D54-B3EB-4CF7-B5A7-FBA17095D6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A700D54-B3EB-4CF7-B5A7-FBA17095D6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A700D54-B3EB-4CF7-B5A7-FBA17095D6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3808CB10-D7AB-4461-8368-A15B41A9508B}
+	EndGlobalSection
+EndGlobal
