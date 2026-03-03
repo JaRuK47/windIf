@@ -1,0 +1,17 @@
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\bin\Debug\net8.0-windows\windIf.exe
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\bin\Debug\net8.0-windows\windIf.deps.json
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\bin\Debug\net8.0-windows\windIf.runtimeconfig.json
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\bin\Debug\net8.0-windows\windIf.dll
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\bin\Debug\net8.0-windows\windIf.pdb
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.Form1.resources
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.csproj.GenerateResource.cache
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.AssemblyInfoInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.AssemblyInfo.cs
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.csproj.CoreCompileInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.sourcelink.json
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.dll
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\refint\windIf.dll
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.pdb
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\windIf.genruntimeconfig.cache
+C:\Users\anuch\OneDrive\Документы\vs\windIf\windIf\windIf\obj\Debug\net8.0-windows\ref\windIf.dll
